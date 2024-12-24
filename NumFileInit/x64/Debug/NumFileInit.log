@@ -1,0 +1,3 @@
+﻿  NumFileInit.cpp
+C:\Users\Lenovo\Desktop\std\4к1сем\ОПП\Проект 1\Часть 2 OpenMP\NumFileInit\NumFileInit.cpp(105,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  NumFileInit.vcxproj -> C:\Users\Lenovo\Desktop\std\4к1сем\ОПП\Проект 1\Часть 2 OpenMP\NumFileInit\x64\Debug\NumFileInit.exe
