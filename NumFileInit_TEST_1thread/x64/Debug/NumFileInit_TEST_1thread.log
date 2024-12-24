@@ -1,0 +1,3 @@
+﻿  NumFileInit_TEST_1thread.cpp
+C:\Users\Lenovo\Desktop\std\4к1сем\ОПП\Проект 1\Часть 2 OpenMP\NumFileInit_TEST_1thread\NumFileInit_TEST_1thread.cpp(102,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  NumFileInit_TEST_1thread.vcxproj -> C:\Users\Lenovo\Desktop\std\4к1сем\ОПП\Проект 1\Часть 2 OpenMP\NumFileInit_TEST_1thread\x64\Debug\NumFileInit_TEST_1thread.exe
